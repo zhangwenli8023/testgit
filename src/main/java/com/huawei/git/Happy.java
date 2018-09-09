@@ -6,5 +6,6 @@ public class Happy {
 		
 		System.out.println("this is a test! right");
 		System.out.println("this is a test! left");
+		System.out.println("hot_fix test");
 	}
 }
